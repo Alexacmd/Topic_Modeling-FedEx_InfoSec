@@ -99,7 +99,7 @@ for col in df.columns:
         df[col] = df[col].apply(clean_confidentiality)
 print("All columns cleaned!")
 
-#Remove HTML using safer check (FIXED HERE)
+#Remove HTML using safer check
 def remove_html(text):
     if pd.isna(text):
         return text
@@ -239,7 +239,7 @@ def build_few_shot_prompt(text):
     prompt += "Respond in clean JSON only: {\"category\":\"...\",\"subcategory\":\"...\",\"category_conf\":0-1,\"subcategory_conf\":0-1}"
     return prompt
 
-# categories.txt json file
+# Category and Subcategory Definiations(categories.txt json file)
 def safe_json_parse(output):
     try:
         start = output.find("{")
