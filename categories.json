@@ -1,0 +1,216 @@
+{
+  "tracking a shipment": {
+    "Find out where my shipment is": [
+      "I want to know where my shipment is",
+      "I want to know why my shipment has not been delivered",
+      "My shipment was delivered to the wrong address",
+      "I can't find my shipment with the tracking number",
+      "My shipment is not showing any tracking updates"
+    ],
+    "Get a proof of delivery": [
+      "I want a proof of delivery"
+    ],
+    "Get help with a delivery that went wrong": [
+      "My shipment has been returned",
+      "I received someone else's shipment",
+      "I missed a delivery"
+    ],
+    "Manage a shipment": [
+      "I want to add additional instructions for the driver",
+      "I want to change the delivery address",
+      "I want to change the delivery date",
+      "I want to pick up my shipment from a FedEx location",
+      "I want my shipment returned to me",
+      "I want to give permission to leave my shipment in a safe place",
+      "I want to provide missing paperwork",
+      "I want to cancel a delivery I'm expecting",
+      "I want to pick up my shipment from a pick-up point",
+      "I want you to leave my shipment with a neighbor"
+    ]
+  },
+
+  "customs clearance": {
+    "Export customs (destination country)": [
+      "My shipment is delayed in customs / I want help with clearance",
+      "I want to pay duties and taxes",
+      "I want customs assistance"
+    ],
+    "Export customs (origin country)": [
+      "My shipment is delayed in customs",
+      "Shipment delivered but customs docs missing",
+      "I want to pay duties and taxes",
+      "My duties/taxes were miscalculated",
+      "I want to know the latest clearance status",
+      "I want a callback from a clearance agent",
+      "I want to leave a message for the clearance team"
+    ],
+    "Import customs (destination country)": [
+      "My shipment has not cleared customs",
+      "I have not received customs documentation",
+      "My duties/taxes were miscalculated",
+      "I want to use my own broker",
+      "I want to pay my duties and taxes",
+      "I have issues paying duties and taxes",
+      "I want to return my customs clearance document",
+      "My shipment has not arrived at customs",
+      "I want the latest clearance status",
+      "I want a callback from a clearance agent",
+      "I want to leave a message for the clearance team"
+    ],
+    "General inquiry": [
+      "I want general information about clearance documents",
+      "I want general information about customs duties and taxes",
+      "I want to know clearance restrictions"
+    ]
+  },
+
+  "pickups and returns": {
+    "Arrange a special delivery": [
+      "I'm looking for more information about special deliveries"
+    ],
+    "Learn more about dangerous goods": [
+      "I'm looking for more information about dangerous goods"
+    ],
+    "Manage a return": [
+      "I want to change a return I already arranged",
+      "I want to return a shipment"
+    ],
+    "Log a complaint": [
+      "Nobody came to collect my pickup"
+    ],
+    "Manage a new shipment": [
+      "I want to arrange a pickup",
+      "I want to get a pickup booking confirmation"
+    ],
+    "Manage a pickup": [
+      "I want to provide pickup instructions",
+      "I want to know when my shipment will be picked up",
+      "I want to change an existing pickup",
+      "I want to cancel a pickup",
+      "I want to drop off my shipment at a drop-off point"
+    ]
+  },
+
+  "invoice inquiries and payments": {
+    "account inquiries": [
+      "The invoice is billed to the wrong account",
+      "I want to pay my invoice",
+      "I do not agree with a charge on my invoice",
+      "I received a letter asking for payment but have already paid"
+    ],
+    "general inquiries": [
+      "Why should I pay duty and tax?",
+      "Payment question",
+      "I want a copy of a document",
+      "My question is not listed above"
+    ],
+    "claims and refunds": [
+      "I overpaid / duplicate payment",
+      "My shipment was late / damaged / not received"
+    ]
+  },
+
+  "rates and transit times": {
+    "Calculate shipping rates": [
+      "I want a freight shipment quote",
+      "I want to see your shipping rates"
+    ],
+    "Transit times": [
+      "I want to know the transit times for my shipment"
+    ]
+  },
+
+  "account inquiries": {
+    "Change account details": [
+      "Review our current rates",
+      "Update billing account",
+      "Close my account"
+    ],
+    "Get support": [
+      "I forgot my account number",
+      "I have a problem with my account number",
+      "My rates are wrong"
+    ],
+    "Open an account": [
+      "I want to open a new account"
+    ]
+  },
+
+  "packaging supplies": {
+    "general inquiries": [
+      "packaging",
+      "supplies"
+    ]
+  },
+
+"fedex services": {
+    "Learn more about dangerous goods": [
+        "I'm looking for more information about dangerous goods"
+    ],
+    "Learn about your services": [
+        "I would like some general information about your services",
+        "I'm a new customer and want to learn how to ship with you"
+    ],
+    "Open an account": [
+        "I want to open a new account",
+        "I want to get a business contract offer"
+    ],
+    "Get help with shipping tools": [
+        "I want support with billing online",
+        "I want support with my online tools"
+    ],
+    "Arrange a special delivery": [
+        "I'm looking for more information about special deliveries"
+    ]
+  },
+
+  "claims and refunds": {
+    "Manage an existing claim": [
+      "I want to know the status of my claim"
+    ],
+    "File a new claim": [
+      "My shipment has been damaged",
+      "My shipment is missing or lost",
+      "I want a refund for a late delivery"
+    ]
+  },
+
+  "software solutions": {
+    "Get support": [
+      "I am looking for offline software and integration solutions"
+    ],
+    "Open an account": [
+      "I want to open a new account",
+      "I want a business contract offer"
+    ],
+    "Shipping tools support": [
+      "Help with billing online",
+      "Help with online tools"
+    ]
+  },
+
+  "general inquiry": {
+    "General help": [
+      "I want to check if a FedEx email is fake or phishing",
+      "I want to find information about career opportunities"
+    ],
+    "Contact someone": [
+      "I want to contact a Sales representative",
+      "I want to contact marketing or PR",
+      "I want contact info for a FedEx station",
+      "I want to contact HR"
+    ],
+    "Other": [
+      "I couldn't find what I'm looking for",
+      "I need a copy of the air waybill"
+    ]
+  },
+
+  "general feedback": {
+    "Give feedback": [
+      "Feedback on your website",
+      "Feedback on your services",
+      "Compliment employees"
+    ]
+  }
+}
