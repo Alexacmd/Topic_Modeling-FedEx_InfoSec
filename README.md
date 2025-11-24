@@ -1,4 +1,4 @@
-# FedEx AMEA Email Classifier (Local LLM)
+# FedEx Topic Modeling 
 
 ## Project Overview
 This tool automates the classification of customer emails into hierarchical categories (Category > Subcategory). It utilizes a **Local Large Language Model (Llama 3.1)** to ensure data privacy and **Semantic Search** for deduplication.
@@ -38,4 +38,5 @@ This tool automates the classification of customer emails into hierarchical cate
 The script generates an `output/` folder containing:
 *   `Topic_Modelling_Results.xlsx` (Final classified data)
 *   `Topic_Modelling_Results.json` (JSON format)
+
 *   `Topic_Modelling_Results.html` (Visual report)
